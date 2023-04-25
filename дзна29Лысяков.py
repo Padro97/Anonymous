@@ -12,3 +12,8 @@ if not surname.isalpha() or not surname[0].isupper():
 else:
     pseudonym = FIRST_NAME[first_name[0].upper()] + " " + SURNAME[surname[0].upper()]
     print("Ваш псевдоним: " + pseudonym)
+    
+# Хорошо!
+# Но решение нужно добавить через git на локальном устройстве
+
+# Следующее задание это превратить данное решение в функцию. Его также нужно добавить через git с локального устройства
