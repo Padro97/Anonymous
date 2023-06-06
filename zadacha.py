@@ -6,3 +6,7 @@ result += chr(ord(char) - 32)
 else:
 result += char
 return result
+
+# эмм?!(
+# а как эта фцункция должна работать?(
+# отступы все надо соблюсти!
